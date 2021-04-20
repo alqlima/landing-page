@@ -15,7 +15,7 @@
  ## Project status
  
  <h4 align="center">
-   🚧 Landing Page 🚀 Under construction... 🚧
+   🚧 Landing Page 🚀 Concluded! 🚧
  </h4>
  
  ## Author
